@@ -1,1 +1,1 @@
-from .math_utils import multiple
+from .math_utils import multiply
